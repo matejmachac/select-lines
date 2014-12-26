@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1415049617 source:c:\users\matìj\desktop\selectlines\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1415096821 source:c:\users\student\desktop\programy\selectlines\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
